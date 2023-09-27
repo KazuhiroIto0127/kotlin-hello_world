@@ -2,7 +2,7 @@ fun main(args: Array<String>) {
     println("Hello World!")
     val test: String = "文字列"
     val array = arrayOf("あ","い","う","え")
-    val test2 = null
+    val test2: Int? = null
     val human = Human()
     println(test)
     println(array)
